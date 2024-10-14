@@ -1,0 +1,2 @@
+# chompcheckers
+bitboard checkers
