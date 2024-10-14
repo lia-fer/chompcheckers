@@ -20,3 +20,6 @@ Running the Game:
 - Players will take turns inputting their moves by specifying the starting and ending positions (0-63).
 
 - The game will validate moves, update the board, and display the current state in both human-readable and bitboard formats.
+
+
+By: Celia Fernandez
